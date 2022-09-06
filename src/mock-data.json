@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "studentName": "Samrat",
+    "score": "75",
+    "class": "A"
+  },
+{
+    "id": 2,
+    "studentName": "STANLEY",
+    "score": "65",
+    "class": "B"
+  },
+  {
+    "id": 3,
+    "studentName": "Dyana",
+    "score": "45",
+    "class": "C"
+  },
+  {
+    "id": 4,
+    "studentName": "Shreya",
+    "score": "55",
+    "class": "C"
+  },
+  {
+    "id": 5,
+    "studentName": "Rachita",
+    "score": "85",
+    "class": "A"
+  }
+]
