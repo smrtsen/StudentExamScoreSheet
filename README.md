@@ -8,7 +8,7 @@ can Add Student Record Delete a record and Filter the records via class.
 
 # Tech Stacks:
 
-1. React
+1. ReactJS
 2. React Hooks
 
 # Design Choices:
