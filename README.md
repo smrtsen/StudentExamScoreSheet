@@ -20,9 +20,14 @@ can Add Student Record Delete a record and Filter the records via class.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+### 'npm install'
+
+Open terminal and run 'npm install' on project directory it will install all the required modules.
 
 ### `npm start`
 
